@@ -1,9 +1,6 @@
 streamlit
-
 pyproj
-
 numpy
-
 matplotlib
-
 pandas
+folium
